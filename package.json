@@ -1,0 +1,28 @@
+{
+  "name": "node-cron-service",
+  "version": "1.0.0",
+  "description": "neat way to integrate cron job in node js using cron as dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duke7able/node-cron-service.git"
+  },
+  "keywords": [
+    "cron",
+    "node-cron",
+    "node",
+    "cron-node"
+  ],
+  "author": "Shreyan Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duke7able/node-cron-service/issues"
+  },
+  "homepage": "https://github.com/duke7able/node-cron-service#readme",
+  "dependencies": {
+    "cron": "^1.7.2"
+  }
+}
